@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDoctorObj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoctorObj>
+    <Name>zoab</Name>
+    <Surname>zoabi</Surname>
+    <Address>כליל החורש טבריה </Address>
+    <Email>zoabi@gmail.com</Email>
+    <Phone>0543234567</Phone>
+    <ID>205567896</ID>
+    <Status>Working</Status>
+    <Date>02/06/2020</Date>
+  </DoctorObj>
+</ArrayOfDoctorObj>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDoctorObj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DoctorObj>
+    <Name>Donald</Name>
+    <Surname>Trump</Surname>
+    <Address>Florida</Address>
+    <Email>donald@usa.com</Email>
+    <Phone>054454354</Phone>
+    <ID>4234324</ID>
+    <Status>working</Status>
+    <Date>today</Date>
+  </DoctorObj>
+</ArrayOfDoctorObj>
